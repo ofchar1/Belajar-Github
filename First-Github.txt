@@ -1,5 +1,7 @@
 Belajar Pertama DiGithub
 
 -Belajar apa itu git & github
+git adalah vcs(Version Contro; System)
 -Cara kerj GITUB
 -Apa itu Branch
+jalur cabang dari main utama
