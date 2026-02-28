@@ -1,0 +1,5 @@
+Belajar Pertama DiGithub
+
+-Belajar apa itu git & github
+-Cara kerj GITUB
+-Apa itu Branch
